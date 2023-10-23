@@ -17,6 +17,7 @@ Category.hasMany(Product, {
 });
 
 // Products belongToMany Tags (through ProductTag)
+// found solution on https://sequelize.org/docs/v6/core-concepts/assocs/
 Product.belongsToMany(Tag, {
   through: ProductTag,
   foreignKey: 'product_id'
