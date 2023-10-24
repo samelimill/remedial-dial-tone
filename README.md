@@ -5,6 +5,7 @@
 ![Express badge](https://img.shields.io/badge/express-yellow?logo=express)
 ![MySQL badge](https://img.shields.io/badge/mysql-orange?logo=mysql)
 ![Sequelize badge](https://img.shields.io/badge/sequelize-blue?logo=sequelize)
+![dotenv badge](https://img.shields.io/badge/dotenv-green?logo=dotenv)
 
 It's a Back End. For E-Commerce. 
 </div>
