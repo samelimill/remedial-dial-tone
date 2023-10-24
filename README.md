@@ -45,4 +45,4 @@ node seeds
 To see the back end in action, we can use Insomnia or another API Client to make ```PUSH```, ```GET```, ```PUT```, or ```DELETE``` requests for ```products```, ```categories```, and ```tags```. 
 
 ## Demo
-A video walkthrough for the back end can be found (here)[https://drive.google.com/file/d/1MZSSldCzpm5DKSywKXFIW0MpVUOpP5Ur/view].
+A video walkthrough for the back end can be found [here](https://drive.google.com/file/d/1MZSSldCzpm5DKSywKXFIW0MpVUOpP5Ur/view).
